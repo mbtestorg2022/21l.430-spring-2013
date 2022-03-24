@@ -67,7 +67,7 @@ Thresholds of Serial: Rembrandt
 {{< tdopen >}}
 
 
-[![This resource may not render correctly in a screen reader.](/images/inacessible.gif)Rembrandt: The Self-Portraits (PDF - 21.1MB)](/ans7870/21l/21l.430/s13/MIT21L_430S13_Rembrandt.pdf)  
+[Rembrandt: The Self-Portraits (PDF - 21.1MB)](/ans7870/21l/21l.430/s13/MIT21L_430S13_Rembrandt.pdf)  
 [Gallery at Rembrandtpainting.net](http://www.rembrandtpainting.net/complete_catalogue/start_self_portraits.htm)
 
 Vincent, Jean. "[The Aging Face of Rembrandt](http://thinking-about-art.blogspot.com/2007/11/aging-face-of-rembrandt.html)." _Thinking About Art_. Blog post with embedded video not produced by the author. November 27, 2011.
@@ -114,9 +114,9 @@ Sequence and Argument: Goya
 
 
 Goya, Francisco. [_The Disasters of War_ (1810–1820)](http://www.richardharrisartcollection.com/portfolio-view/francisco-goya-2/).  
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Prints 1–30 (PDF - 17.2MB)](/ans7870/21l/21l.430/s13/MIT21L_430S13_Goya_1.pdf)  
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Prints 31–60 (PDF - 17.5MB)](/ans7870/21l/21l.430/s13/MIT21L_430S13_Goya_2.pdf)  
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Prints 61–83 (PDF - 14.7MB)](/ans7870/21l/21l.430/s13/MIT21L_430S13_Goya_3.pdf)  
+[Prints 1–30 (PDF - 17.2MB)](/ans7870/21l/21l.430/s13/MIT21L_430S13_Goya_1.pdf)  
+[Prints 31–60 (PDF - 17.5MB)](/ans7870/21l/21l.430/s13/MIT21L_430S13_Goya_2.pdf)  
+[Prints 61–83 (PDF - 14.7MB)](/ans7870/21l/21l.430/s13/MIT21L_430S13_Goya_3.pdf)  
 [Gallery at Wikimedia Commons](http://commons.wikimedia.org/wiki/Los_desastres_de_la_guerra)
 
 Hughes, Robert. "War with Napoleon." In _Goya_. Knopf, 2006. ISBN: 9780375711282.
